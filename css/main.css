@@ -42,6 +42,10 @@ body {
   padding: 0;
 }
 
+.nav .current {
+  background-color: #cc1465;
+}
+
 a:hover {
   background-color: #cc1465;
 }
