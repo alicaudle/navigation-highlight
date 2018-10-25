@@ -53,6 +53,10 @@ a:hover {
   background-color: #cc1465;
 }
 
+img {
+  width: 50%
+}
+
 footer {
   background-color: #ffe500;
   text-align: center;
